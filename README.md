@@ -2,7 +2,7 @@
 
 Um chat em tempo real usando WebSocket e Protocol Buffers.
 
-![WebChat Screenshot](screenshot.png)
+![WebChat Screenshot](https://raw.githubusercontent.com/laviniaaaf/webchat/main/screenshot/home.png)
 
 ## 📋 Descrição
 
